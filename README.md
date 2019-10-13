@@ -1,4 +1,4 @@
-# project2
+# Reversi
 reversi is a famous game. But now you play it by using a python code!
 Reversi is a strategy board game for two players, played on an 8×8 uncheckered board.
 There are sixty-four identical game pieces called disks (often spelled "discs"), which are light on one side and dark on the other. Players take turns placing disks on the board with their assigned color facing up. During a play, any disks of the opponent's color
